@@ -1,0 +1,1 @@
+sui client publish --gas-budget 300000000 --skip-dependency-verification
